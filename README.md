@@ -1,4 +1,4 @@
-# Data science project structure
+# Where To Buy
 This is my template for initiating a data science project. 
 The project structure consists of the following: 
 1. docs: A folder for storing all domain knowledge, brainstorming, user stories, and information about the architecture of the project. 
