@@ -1,2 +1,8 @@
+# # Data Engineering # ## Required Libraries
 using Queryverse
 using HTTP
+using CSV
+using Revise
+# ## Loading Data
+condo1 = load("01_data/neighborhood/Neighborhood_zhvi_bdrmcnt_1_uc_sfrcondo_tier_0.33_0.67_sm_sa_mon.csv")
+julia_help("csv.read")
